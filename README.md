@@ -1,20 +1,17 @@
 
 ## About Me
 
-Hello! I'm an engineering student based in France with a passion for coding. Currently, I'm gaining valuable experience through an internship at a software company.
-
+  Hello! I'm an engineering student based in France with a passion for coding. Currently, I'm gaining valuable experience through my own projects and uni.
+  
 ## Interests
 
-- **Coding**: I enjoy exploring different programming languages and working on various projects.
-- **Engineering**: My studies focus on engineering principles and their applications in real-world scenarios.
-- **Learning**: Always eager to learn new technologies and improve my skills.
+  - **Coding**: I enjoy exploring different programming languages and working on various projects.
+  - **Video Games**: La lu li le lo
+  - **Music**: I play a lot of guitar and listen to rock music.
 
-## Current Internship
+## Experience
 
-I'm currently interning at a software company where I am involved in:
+  I am very interested in data science (it's my field of study so I better do ...). I developed my own Neural network library from scratch and work constantly to improve it. 
+  I do various random projects like a recursive compiler for brainfuck or other little projects.
 
-- **Software Development**: Contributing to the development of software solutions.
-- **Team Collaboration**: Working closely with a team of experienced developers.
-- **Project Management**: Participating in the planning and execution of projects.
-  
-Thank you for visiting my README file!
+
