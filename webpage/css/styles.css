@@ -53,7 +53,7 @@ header .nav-links a:hover {
 
 /* Hero Section Styles */
 .hero {
-    background: url('../images/bg_hero.svg') no-repeat center center/cover;
+    background: #eeeee4 url('../images/bg_hero.svg') no-repeat center center/cover;
     text-align: center;
     padding: 100px 20px; /* Reduced vertical padding */
     color: #fff;
@@ -100,7 +100,7 @@ header .nav-links a:hover {
 .about {
     text-align: center;
     padding: 50px 20px;
-    background: url('../images/bg_about.svg') no-repeat center center/cover; /* Added background image */
+    background: #eeeee4 url('../images/bg_about.svg') no-repeat center center/cover; /* Added background image */
     color: #eeeee4;
     border-radius: 10px;
     max-width: 90%;
