@@ -1,17 +1,26 @@
-
 ## About Me
 
-  Hello! I'm an engineering student based in France with a passion for coding. Currently, I'm gaining valuable experience through my own projects and uni.
-  
+I'm an applied mathematics engineering student at INSA Toulouse, France, with a strong
+interest in data science and building things from scratch. Most of what I make comes out
+of coursework or my own curiosity — usually both.
+
+## What I work on
+
+My main project is a neural network library written entirely from scratch, without deep
+learning frameworks — layers, activations and backpropagation all implemented by hand. I
+keep improving it as I learn.
+
+Alongside it I take on smaller, often unusual projects for the challenge: a recursive
+Brainfuck compiler, among others. I like problems where I have to understand a system well
+enough to rebuild it myself.
+
 ## Interests
 
-  - **Coding**: I enjoy exploring different programming languages and working on various projects.
-  - **Video Games**: La lu li le lo
-  - **Music**: I play a lot of guitar and listen to rock music.
+- **Programming** — exploring different languages and paradigms through side projects.
+- **Music** — I play guitar and mostly listen to rock.
+- **Video games** — a long-standing hobby, and occasionally an excuse to tinker.
 
-## Experience
+## Reach me
 
-  I am very interested in data science (it's my field of study so I better do ...). I developed my own Neural network library from scratch and work constantly to improve it. 
-  I do various random projects like a recursive compiler for brainfuck or other little projects.
-
-
+- GitHub: [@AndreiLeCodeur](https://github.com/AndreiLeCodeur)
+- Portfolio: [andreilecodeur.github.io](https://andreilecodeur.github.io)
