@@ -7,7 +7,7 @@ of coursework or my own curiosity, usually both.
 ## What I work on
 
 My main project is a neural network library written entirely from scratch, without deep
-learning frameworks — layers, activations and backpropagation all implemented by hand. I
+learning frameworks, layers, activations and backpropagation all implemented by hand. I
 keep improving it as I learn.
 
 Alongside it I take on smaller, often unusual projects for the challenge: a recursive
