@@ -2,7 +2,7 @@
 
 I'm an applied mathematics engineering student at INSA Toulouse, France, with a strong
 interest in data science and building things from scratch. Most of what I make comes out
-of coursework or my own curiosity — usually both.
+of coursework or my own curiosity, usually both.
 
 ## What I work on
 
